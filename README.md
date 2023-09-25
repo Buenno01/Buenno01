@@ -11,7 +11,7 @@ Atualmente estudo front-end e pretendo me especializar cada vez mais!
 </div>
 
 <div><br> 
-  <a href="https://instagram.com/viniciusbuenoc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link para meu instagram" target="_blank"></a>
+  <a href="https://www.instagram.com/viniciusbuenoc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link para meu instagram" target="_blank"></a>
   <a href = "mailto:buenov535@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Link me enviar um e-mail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciusbcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para meu linkedin" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/viniciusbuenocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para meu linkedin" target="_blank"></a> 
 </div>
