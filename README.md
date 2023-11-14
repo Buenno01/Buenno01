@@ -1,8 +1,8 @@
-### Oi! Meu nome é Vinícius, boas-vindas ao meu perfil!
+### Hello! I'm Vinícius, welcome to my profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buenno01&show_icons=true&theme=tokyonight)
 
-Atualmente estudo front-end e pretendo me especializar cada vez mais!
+I'm studing full-stack development! I'll change the world with technology, helping other people to get through their obstacles using my applications!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
