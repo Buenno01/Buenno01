@@ -12,13 +12,13 @@
 
 <div align="center"><br> 
 
-### My skills | Minhas habilidades
+### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,typescript,tailwind,bootstrap,git,github,vite,vitest,redux,mysql,docker,react)](https://skillicons.dev)
 <hr/>
 </div>
 <div align="center"><br> 
 
-### Learning | Aprendendo
+### Learning
 
 [![Learning Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
 <hr/>
