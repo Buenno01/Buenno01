@@ -13,7 +13,7 @@
 <div align="center"><br> 
 
 ### My skills | Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,typescript,tailwind,git,github,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,typescript,tailwind,bootstrap,git,github,vite,vitest,redux,mysql,docker)](https://skillicons.dev)
 <hr/>
 </div>
 <div align="center"><br> 
