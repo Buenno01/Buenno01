@@ -10,7 +10,7 @@
   <hr/>
 </div>
 
-<div><br>
+<div align="center"><br>
 
 ### About Me
 
