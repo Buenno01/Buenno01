@@ -10,6 +10,13 @@
   <hr/>
 </div>
 
+<div><br>
+
+### About Me
+
+Hello! 👋 I'm a technology enthusiast on a continuous journey, currently forging my path as a full-stack programming student at Trybe and attending to Software Engineering degree at Estácio. I'm determined to make my mark in the world through innovation and connectivity.
+</div>
+
 <div align="center"><br> 
 
 ### My skills
