@@ -20,14 +20,14 @@ Hello! 👋 I'm a technology enthusiast on a continuous journey, currently forgi
 <div align="center"><br> 
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,typescript,tailwind,bootstrap,git,github,vite,vitest,redux,mysql,docker,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,typescript,tailwind,bootstrap,git,github,vite,vitest,redux,mysql,docker,react,nodejs,npm)](https://skillicons.dev)
 <hr/>
 </div>
 <div align="center"><br> 
 
 ### Learning
 
-[![Learning Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
+[![Learning Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <hr/>
 </div>
 
