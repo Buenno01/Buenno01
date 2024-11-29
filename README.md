@@ -27,7 +27,7 @@ Hello! 👋 I'm a technology enthusiast on a continuous journey, currently forgi
 
 ### Learning
 
-[![Learning Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Learning Skills](https://skillicons.dev/icons?i=py,nextjs)](https://skillicons.dev)
 <hr/>
 </div>
 
